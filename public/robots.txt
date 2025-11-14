@@ -1,0 +1,18 @@
+# robots.txt for EM Global Solutions
+
+User-agent: *
+Allow: /
+
+# Disallow admin or private pages if any
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://masterllc.online/sitemap.xml
+
+# Crawl-delay (optional, adjust as needed)
+# Crawl-delay: 10
+
+# Block specific bots (if needed)
+# User-agent: BadBot
+# Disallow: /
